@@ -44,7 +44,7 @@ A data analysis project that performs sentiment analysis on tweets related to va
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Siddhi-Shinde-dev/PRODIGY_DS_04>
    cd twitter-sentiment-analysis
    ```
 
@@ -70,8 +70,9 @@ A data analysis project that performs sentiment analysis on tweets related to va
 twitter-sentiment-analysis/
 │
 ├── twitter_training.csv       
-├── Untitled__1_.ipynb        
-└── README.md                 
+├── Untitled__1_.ipynb         
+└── README.md                  
+```
 
 ---
 
